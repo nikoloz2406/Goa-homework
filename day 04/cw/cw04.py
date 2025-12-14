@@ -29,7 +29,7 @@ print(items / boxes)
 #print("game over"
 
 # client = "6"
-print(client)
+print("client")
 
 credit = 300
 Credit = 280
