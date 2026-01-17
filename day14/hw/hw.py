@@ -20,5 +20,4 @@ print(age)
 print(18 < 22)
 
 
-car_type = "sedan"
-print(sedan)
+
