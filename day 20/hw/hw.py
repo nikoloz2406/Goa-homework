@@ -12,7 +12,7 @@ for i in range(11):
 
 
 
-password = input("enter password ")
+password = input("enter password : ")
 print(password) 
 
 if password == "goa123":
