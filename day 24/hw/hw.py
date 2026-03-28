@@ -39,8 +39,19 @@ name = input("enter your name :")
 print(name)
 
 
-if name == nikoloz:
+if name == "nikoloz":
   print("the names are same")   
 else:
   print ("the not names are same")
 
+
+
+
+
+print(2>1)
+print(3>2)
+print(4>3)
+
+print(6<1)
+print(11<1)
+print(3<2)
