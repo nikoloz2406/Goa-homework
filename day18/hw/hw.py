@@ -1,7 +1,7 @@
-num = 0
-while   num <= 10 :
+num = 2
+while   num <= 20 :
     print(num)
-    num +=1
+    num +=2
 
  
 num = 2
