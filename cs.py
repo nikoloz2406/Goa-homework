@@ -1,3 +1,14 @@
+age = input("enter your age:")
+print(age)
+
+for i in range(5):
+    print(i)
+
+
+if age == 18 :
+  print
+
+
 mag= input("enter onli 5 num:")
 print(mag)
 
@@ -9,7 +20,7 @@ print(mag[-5])
 num = input("enter any number")
 print(num)
 
-if  num > 0:
+if  num >= 0:
  print("num არის მეტი 0 ზე")
 else :
    print("num ᲐᲠᲘᲡ ᲜᲐᲙᲚᲔᲑᲘ 0 ᲖᲔ")
@@ -26,3 +37,4 @@ else :
 
 for i in range(11):
  print(i) 
+
